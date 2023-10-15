@@ -46,8 +46,7 @@
 
 - **Endpoint**: `GET /contas/saldo`
 - **Descrição**: Este endpoint permite consultar o saldo de uma conta bancária.
-- **Exemplo de Solicitação (print)**: `GET /contas/saldo?numero_conta=1&senha=senhadatitular`
-  !["Imagem6"](./IMGs/6.png)
+- **Exemplo de Solicitação**: `GET /contas/saldo?numero_conta=1&senha=senhadatitular`
 
 ### Extrato
 
@@ -66,7 +65,7 @@
 
 - **Endpoint**: `GET /contas`
 - **Descrição**: Este endpoint permite listar todas as contas bancárias existentes. Para acessar a lista de contas, você deve fornecer a senha do banco.
-- **Exemplo de Solicitação (print)**:
+- **Exemplo de Solicitação**:
   !["Imagem8"](./IMGs/8.png)
 ## Como Executar o Projeto
 
