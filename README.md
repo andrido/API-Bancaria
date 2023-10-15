@@ -53,6 +53,12 @@
 - **Descrição**: Este endpoint permite listar as transações realizadas em uma conta bancária.
 - **Exemplo de Solicitação (print)**: `GET /contas/extrato?numero_conta=1&senha=senhadatitular`
 
+### Obter Contas
+
+- **Endpoint**: `GET /contas`
+- **Descrição**: Este endpoint permite listar todas as contas bancárias existentes. Para acessar a lista de contas, você deve fornecer a senha do banco.
+- **Exemplo de Solicitação (print)**:
+
 ## Como Executar o Projeto
 
 Siga estas etapas para executar o projeto em seu ambiente local:
