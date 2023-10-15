@@ -6,7 +6,7 @@
 
 - **Endpoint**: `POST /contas`
 - **Descrição**: Este endpoint permite criar uma nova conta bancária. Uma conta é criada com um número único e informações do titular.
-- **Exemplo de Solicitação**: ![Imagem1](./IMGs/1.png)
+- **Exemplo de Solicitação**: !["Imagem1"](./IMGs/1.png)
 
 
 
