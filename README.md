@@ -54,8 +54,11 @@
 - **Endpoint**: `GET /contas/extrato`
 - **Descrição**: Este endpoint permite listar as transações realizadas em uma conta bancária.
 - **Exemplo de Solicitação (print)**: `GET /contas/extrato?numero_conta=1&senha=senhadatitular`
+
   # No caso de requisição mal sucedida:
+  
  !["Imagem7.1"](./IMGs/7(badreq).png)
+  
   # No caso de requisição bem sucedida:
  !["Imagem7.2"](./IMGs/7(ok).png)
 
